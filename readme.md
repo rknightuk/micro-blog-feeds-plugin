@@ -3,3 +3,5 @@
 Plugin for Micro.blog to add a `/feeds` page which lists the main RSS feed as well as the feeds for all categories.
 
 [Demo](https://toot.rknight.me/feeds)
+
+[Install on Micro.blog](https://micro.blog/account/plugins/view/70)
